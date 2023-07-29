@@ -1,6 +1,8 @@
 ReactJS Material UI CC - 2023
 https://mui.com/
 
+inputs folder
+
 AutoComplete
 -npm install @mui/material @emotion/react @emotion/styled
 -kreiramo inputs folder
@@ -71,5 +73,53 @@ TransferList
 
 
 Toggle Button
--krairamo ToggleButton.jsx komponentu
+-kreiramo ToggleButton.jsx komponentu
 -u ToggleButton.jsx komponentu importujemo MUI komponente
+
+
+dataDisplay folder
+
+Avatar
+-kreiramo AvatarExample.jsx komponentu
+-u AvatarExample.jsx komponentu importujemo MUI komponente
+
+
+Badge
+-kreiramo BadgeExample.jsx komponentu
+-u BadgeExample.jsx komponentu importujemo MUI komponente
+
+
+Chip 
+-kreiramo ChipExample.jsx komponentu
+-u ChipExample.jsx komponentu importujemo MUI komponente
+
+
+Divider 
+-kreiramo DividerExample.jsx komponentu
+-u DividerExample.jsx komponentu importujemo MUI komponente
+
+
+Icons
+-kreiramo IconsExample.jsx komponentu
+-u IconsExample.jsx komponentu importujemo MUI komponente
+
+
+List 
+-kreiramo ListExample.jsx komponentu
+-u ListExample.jsx komponentu importujemo MUI komponente
+
+
+Table
+-kreiramo TableExample.jsx komponentu
+-u TableExample.jsx komponentu importujemo MUI komponente
+
+
+Tooltip 
+-kreiramo TooltipExample.jsx komponentu
+-u TooltipExample.jsx komponentu importujemo MUI komponente
+
+
+Typography (h1-h6)
+-kreiramo TypographyExample.jsx komponentu
+-u TypographyExample.jsx komponentu importujemo MUI komponente
+-u terminalu instaliramo font roboto biblioteku npm install @fontsource/roboto
